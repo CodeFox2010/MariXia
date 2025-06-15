@@ -16,12 +16,11 @@ has used AI for building it since I am to busy lately like too busy with studyin
 
 # 🚀 Live Site
 
-Check it out here: [https://yourusername.github.io/repo-name/](link)  
-↳ *(replace with your real link)*
+Check it out here: [[https://yourusername.github.io/repo-name/] 
 
 # 📦 Downloads
 
-Prototypes and early builds are available via the [Downloads page](./downloads.html).  
+Prototypes and early builds are available via the(./downloads.html).  
 More coming soon.
 
 ## 🛠️ Tech Stack

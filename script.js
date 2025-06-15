@@ -4,7 +4,7 @@ if (/android/i.test(navigator.userAgent)) {
   document.body.classList.add("android");
 }
 window.addEventListener('scroll', () => {
-  if (window.scrollY > 350) {
+  if (window.scrollY > 500) {
     card.classList.add('morph');
     
     if (Bool === true) {

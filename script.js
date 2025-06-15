@@ -7,6 +7,5 @@ window.addEventListener('scroll', () => {
     if (Bool === true) {
       window.scrollTo({ top: 0, behavior: 'smooth' });
       Bool = false;
-    }
-  }
+    }}
 });

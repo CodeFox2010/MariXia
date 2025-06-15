@@ -1,0 +1,119 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url('bg.png');
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #1f1f1f; /* fallback color */
+  color: #f5f5f5; /* just so text stays readable */
+}
+
+.content {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 6rem 2rem;
+  background: rgba(236, 231, 225, 0.9); /* soft backdrop */
+  animation: slideUp 1.5s ease-out;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #3a2e2e;
+  margin-bottom: 1rem;
+}
+
+em {
+  color: #a66641;
+}
+
+.note {
+  background: #dcd5cd;
+  padding: 1rem;
+  border-left: 4px solid #a66641;
+  margin-top: 2rem;
+}
+
+/* 🌬️ slight motion on load */
+@keyframes slideUp {
+  0% {
+    transform: translateY(40px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+/* morphing into navbar */
+#rootCard {
+  transition: all 0.5s ease;
+  border-radius: 1rem;
+}
+
+#rootCard.morph {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  max-width: 100%;
+  padding: 1rem 2rem;
+  background: rgba(236, 231, 225, 0.95);
+  z-index: 1000;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+#rootCard.morph h1 {
+  font-size: 2rem;
+  margin: 0;
+}
+
+#rootCard.morph p,
+#rootCard.morph .note {
+  display: none;
+}
+
+#text {
+  font-size: 1rem;
+  color: #3b2f2f;
+  padding: 1rem;
+}
+.button-container {
+  margin-top: 3rem;
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  padding: 1.5rem;
+}
+
+.btn {
+  background-color: #a66641;
+  color: #f5f5f5;
+  padding: 0.75rem 1.75rem;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+  text-align: center;
+}
+
+.btn:hover {
+  background-color: #8b5235;
+  transform: scale(1.05);
+}
+.site-footer {
+  background-color: #2e2e2e; /* dark grey */
+  color: #ccc;
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.9rem;
+  margin-top: 3rem;
+}
+

@@ -1,4 +1,4 @@
-# Monaxia
+# Monasha
 future startup website host
 
 # 🌱 My Cool Web Project
@@ -39,6 +39,6 @@ One day, this could grow into a fully-fledged platform or product — who knows?
 
 ## 💬 Feedback
 
-Feel free to open issues or pull requests if you wanna contribute or suggest anything.
+Feel free to open issues or pull requests if you wanna suggest anything.
 
 ---

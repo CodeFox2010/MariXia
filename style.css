@@ -21,15 +21,6 @@ body {
   background: rgba(236, 231, 225, 0.9);
   animation: slideUp 1.5s ease-out;
 }
-a {
-  color: white;
-  text-decoration: underline;
-}
-
-a:hover {
-  color: #ccc;
-}
-
 h1 {
   font-size: 3rem;
   color: #3a2e2e;

@@ -11,7 +11,7 @@ has used AI for building it since I am to busy lately like too busy with studyin
 
 # 🧩 What's inside
 
-- `downloads.html` – page for downloads + prototypes (in the not so far future)
+- `prototypes.html` – page for prototypes (in the not so far future)
 - `/files/` – actual downloadable content (in the not so far future)
 
 # 🚀 Live Site

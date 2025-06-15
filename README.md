@@ -1,4 +1,4 @@
-# Monasha
+# Monashia
 future startup website host
 
 # 🌱 My Cool Web Project

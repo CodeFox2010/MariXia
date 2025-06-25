@@ -1,5 +1,5 @@
-# Marishia
-future startup website host
+# MariXia
+future startup website.
 
 # 🌱 My Cool Web Project
 
@@ -16,7 +16,7 @@ has used AI for building it since I am to busy lately like too busy with studyin
 
 # 🚀 Live Site
 
-Check it out here: (https://codefox2010.github.io/Monashia/)
+Check it out here: (https://codefox2010.github.io/MariXia/)
 
 # 📦 Downloads
 

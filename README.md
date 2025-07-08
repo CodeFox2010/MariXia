@@ -1,4 +1,4 @@
-# MariXia
+# MonoXia
 future startup website.
 
 # 🌱 My Cool Web Project
@@ -16,7 +16,7 @@ has used AI for building it since I am to busy lately like too busy with studyin
 
 # 🚀 Live Site
 
-Check it out here: (https://codefox2010.github.io/MariXia/)
+Check it out here: (https://codefox2010.github.io/MonoXia/)
 
 # 📦 Downloads
 

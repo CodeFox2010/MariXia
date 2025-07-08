@@ -1,7 +1,7 @@
 # MonoXia
 future startup website.
 
-# 🌱 My Cool Web Project
+# 🌱 Our Revolutionary Project
 
 This is the official site for our journey toward a greener, calmer future.
 
